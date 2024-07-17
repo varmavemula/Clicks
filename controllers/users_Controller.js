@@ -19,3 +19,7 @@ module.exports.sign_up = function(req, res){
         title: 'users | sign-up'
     });
 }
+
+module.exports.sign_up_post = function(req, res){
+
+}
