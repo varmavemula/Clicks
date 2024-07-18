@@ -1,0 +1,21 @@
+form{
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+   justify-content: space-between;
+    align-items: center;
+    width: 15%;
+    height: 25%;
+    margin-left: 42.5%;
+    background-color: aqua;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2), 0 0 20px rgba(255, 255, 255, 0.5);
+}
+
+form input{
+    border: 1px solid black;
+    width: 100%;
+}
+
+form button{
+
+}
